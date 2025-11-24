@@ -12,7 +12,7 @@ Client events are generated in the browser, forwarded to a server side endpoint,
 
 Flow:
 Browser  
-Tag Manager Web Container  
+Tag Manager Web Container
 Server side Tag Manager Container  
 Destinations (GA4, Meta CAPI, TikTok Events API, Google Ads, GMP)
 
